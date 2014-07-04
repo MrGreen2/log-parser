@@ -1,5 +1,5 @@
 {
-    "name": "kassner/log-parser",
+    "name": "mrgreen/log-parser",
     "type": "library",
     "description": "PHP Log Parser Library",
     "keywords": ["log","apache","parser", "nginx", "format", "log-format"],
